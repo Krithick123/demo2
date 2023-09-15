@@ -1,0 +1,7 @@
+.heading{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
